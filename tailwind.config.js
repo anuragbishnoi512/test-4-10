@@ -25,6 +25,13 @@ module.exports = {
         'custom-2xl': "52px",
         'custom-3xl': "60px",
       },
+      colors: {
+        'darkBlue': "#1B3353"
+      },
+      boxShadow: {
+        '3xl': "0px 14px 30.5px 0px #1B33531F",
+        '4xl': "2px 2px 0px #076787",
+      },
       lineHeight: {
         'custom-sm': "32px",
         'custom-lg': "36px",
